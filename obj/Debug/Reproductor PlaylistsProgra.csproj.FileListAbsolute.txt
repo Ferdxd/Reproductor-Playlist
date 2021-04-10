@@ -1,0 +1,15 @@
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\bin\Debug\Reproductor PlaylistsProgra.exe.config
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\bin\Debug\Reproductor PlaylistsProgra.exe
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\bin\Debug\Reproductor PlaylistsProgra.pdb
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\bin\Debug\Interop.WMPLib.dll
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\obj\Debug\Reproductor PlaylistsProgra.csprojAssemblyReference.cache
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\obj\Debug\Interop.WMPLib.dll
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\obj\Debug\Reproductor PlaylistsProgra.csproj.ResolveComReference.cache
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\obj\Debug\Reproductor_PlaylistsProgra.Form1.resources
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\obj\Debug\Reproductor_PlaylistsProgra.Properties.Resources.resources
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\obj\Debug\Reproductor PlaylistsProgra.csproj.GenerateResource.cache
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\obj\Debug\Reproductor PlaylistsProgra.csproj.CoreCompileInputs.cache
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\obj\Debug\Reproductor PlaylistsProgra.exe
+C:\Users\FERDY AGUSTIN\source\repos\Reproductor PlaylistsProgra\obj\Debug\Reproductor PlaylistsProgra.pdb
